@@ -1,0 +1,15 @@
+{
+  "name": "hocr-to-brick",
+  "version": "1.0.0",
+  "description": "",
+  "main": "to-brick.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bert Spaan",
+  "license": "MIT",
+  "dependencies": {
+    "JSONStream": "^1.2.1",
+    "highland": "^2.10.1"
+  }
+}
